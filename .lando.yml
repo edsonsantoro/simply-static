@@ -1,0 +1,8 @@
+name: static
+recipe: wordpress
+config:
+  php: '7.4'
+  via: nginx
+  database: mariadb
+  xdebug: false
+  webroot: ./web
