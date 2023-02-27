@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1084b7f81220d43f846b49ea82e4286c",
+    "content-hash": "b7cebe516d342f584eacfab73a280b78",
     "packages": [
         {
             "name": "composer/installers",
@@ -1057,7 +1057,7 @@
         },
         {
             "name": "wpackagist-plugin/simply-static",
-            "version": "2.1.5.2",
+            "version": "2.2.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/simply-static/",
@@ -1065,7 +1065,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/simply-static.zip?timestamp=1638285833"
+                "url": "https://downloads.wordpress.org/plugin/simply-static.zip?timestamp=1677494738"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1576,5 +1576,5 @@
         "php": ">=7.4"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "2.3.0"
 }
